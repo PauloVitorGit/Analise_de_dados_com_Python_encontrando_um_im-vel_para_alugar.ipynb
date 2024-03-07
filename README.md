@@ -1,4 +1,3 @@
-# Analise_de_dados_com_Python_encontrando_um_imovel_para_alugar
 
 # Em busca do imóvel ideal: Navegando pelos Dados
 
