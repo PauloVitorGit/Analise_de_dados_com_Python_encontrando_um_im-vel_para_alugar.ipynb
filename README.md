@@ -1,5 +1,5 @@
 
-# Em busca do imóvel ideal: Navegando pelos Dados
+# Em busca do imóvel ideal: Navegando pelos dados
 
 ## Introdução
 Este projeto visa auxiliar na busca por um imóvel nas vibrantes regiões de Porto e Barcelona, utilizando uma abordagem estruturada e orientada por dados. Este documento apresenta os passos fundamentais para a tomada de decisão informada, desde a definição da meta até a análise exploratória dos dados.
